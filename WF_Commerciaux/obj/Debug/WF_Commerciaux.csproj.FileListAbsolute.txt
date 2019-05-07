@@ -1,0 +1,68 @@
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe.config
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.pdb
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csprojAssemblyReference.cache
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Form1.resources
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Properties.Resources.resources
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.GenerateResource.cache
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CoreCompileInputs.cache
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CopyComplete
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.exe
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.pdb
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmnouvelleNoteDeFrais.resources
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FmAjoutCommercial.resources
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmvisualiserLesNotes.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe.config
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.pdb
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csprojAssemblyReference.cache
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FmAjoutCommercial.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Form1.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmnouvelleNoteDeFrais.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmvisualiserLesNotes.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Properties.Resources.resources
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.GenerateResource.cache
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CoreCompileInputs.cache
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CopyComplete
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.exe
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.pdb
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe.config
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.pdb
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csprojAssemblyReference.cache
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FmAjoutCommercial.resources
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Form1.resources
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmnouvelleNoteDeFrais.resources
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmvisualiserLesNotes.resources
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Properties.Resources.resources
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.GenerateResource.cache
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CoreCompileInputs.cache
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CopyComplete
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.exe
+F:\BTS SIO\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.pdb
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe.config
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.exe
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\WF_Commerciaux.pdb
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csprojAssemblyReference.cache
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FmAjoutCommercial.resources
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Form1.resources
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmnouvelleNoteDeFrais.resources
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.FrmvisualiserLesNotes.resources
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.Properties.Resources.resources
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.GenerateResource.cache
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CoreCompileInputs.cache
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.csproj.CopyComplete
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.exe
+C:\LOCATELLI\E4\TP_Commerciaux\WF_Commerciaux\obj\Debug\WF_Commerciaux.pdb

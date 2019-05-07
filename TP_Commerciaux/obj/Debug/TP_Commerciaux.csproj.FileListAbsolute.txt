@@ -1,0 +1,28 @@
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csprojAssemblyReference.cache
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csproj.CoreCompileInputs.cache
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.exe
+E:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.pdb
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csprojAssemblyReference.cache
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csproj.CoreCompileInputs.cache
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.exe
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.pdb
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe
+F:\BTS SIO\ANNEE 2\SLAM 4 (C#)\Séance 4 (héritage)\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csprojAssemblyReference.cache
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csproj.CoreCompileInputs.cache
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\Lebeau\C#\Commerciaux\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe.config
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\bin\Debug\TP_Commerciaux.pdb
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csprojAssemblyReference.cache
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.csproj.CoreCompileInputs.cache
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.exe
+C:\LOCATELLI\E4\TP_Commerciaux\TP_Commerciaux\obj\Debug\TP_Commerciaux.pdb
